@@ -1,0 +1,158 @@
+body{
+  padding-top:50px;
+  padding-bottom: 50px;
+  
+}
+
+
+h1{
+  text-align: center;
+  font-size: 70px;
+ font-family: 'Sawarabi Mincho', serif;
+}
+
+h1 span
+{
+font-size: 40px;
+}
+
+.globalNavi {
+  text-align:center ;
+  margin-bottom:50px;
+}
+
+
+.globalNavi li {
+  display: inline-block;
+  margin-right: 60px;
+ font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+}
+
+.globalNavi li:last-child{
+  margin-right:0;
+}
+
+.MainImage{
+  width:1000px;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom: 50px;
+  margin-bottom:50px;
+
+}
+
+.MainImage img{
+  width:100%;
+  height:auto;
+}
+
+
+.hstyle
+{
+  text-align:center ;
+ font-size: 14px;
+ font-family: 'Sawarabi Mincho', serif;
+ margin-bottom: 40px;
+ line-height: 1.1;
+}
+
+.About-section,
+.News-section
+{
+  width: 1000px;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom: 50px;
+
+}
+.hstyle span{
+  font-size: 35px;
+  font-family: 'Oswald', sans-serif;
+  border-bottom:3px solid #000000 ;
+  
+}
+
+.About-section ul{
+  overflow: hidden;
+  padding: 0;
+  text-align:center ;
+}
+
+.About-section li{
+  float:left ;
+  list-style: none;
+  width: 32%;
+  margin-right: 2%;
+  text-align:center ;
+}
+.About-section li:last-child{
+  margin: 0;
+}
+
+.About-section li img{
+  width:100%;
+  height:auto;
+}
+
+.About-section h3{
+  font-size: 30px;
+  font-weight: normal;
+  margin: 0;
+  font-family: 'Sawarabi Mincho', serif;
+}
+
+.About-section  p{
+  font-size: 16px;
+  margin: 0;
+  font-family: 'Sawarabi Mincho', serif;
+}
+
+.News-section table{
+  width: 100%;
+  border-top: 1px solid #dddddd;
+}
+.News-section th{
+  font-family: 'Sawarabi Mincho', serif;
+  font-weight: normal;
+  font-size: 14px;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  width: 10%;
+}
+
+.News-section td{
+  font-size: 14px;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  width: 90%;
+}
+
+.twitter-bt{
+  width: 200px;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom: 40px;
+}
+
+
+.twitter-bt a { 
+background: #000000;
+color: #ffffff;
+display: block;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+text-decoration: none;
+border-radius: 5px;
+font-family: 'Oswald', sans-serif;
+font-size: 20px;
+letter-spacing: 1.5;
+}
+
+.copy-right{
+  text-align: center;
+  font-size: 15px;
+}
